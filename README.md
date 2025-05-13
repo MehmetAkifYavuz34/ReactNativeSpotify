@@ -27,5 +27,5 @@
 - **Visual Enhancements**: Linear gradients and vector icons for modern UI/UX.
 - **Cross-Platform Support**: Works on both Android and iOS devices.
 
-## 📦 Installation and Setup
+
 
